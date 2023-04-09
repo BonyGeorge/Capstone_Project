@@ -10,7 +10,7 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 4. Use data science methodologies to define and formulate a real-world business problem.
 5. Use your data analysis tools to load a dataset, clean it, and find out interesting insights from it.
 
-## Week 3A: Exploratory Data Analysis (EDA)
+## Week 2: Exploratory Data Analysis (EDA)
 Make use a RESTful API and web scraping. Convert the data into a dataframe and then perform some data wrangling.
 
 ### Objectives:
@@ -20,7 +20,7 @@ Make use a RESTful API and web scraping. Convert the data into a dataframe and t
 4. Use your data visualization skills to visualize the data and extract meaningful patterns to guide the modeling process.
 
 
-## Week 3B: Interactive Visual Analytics and Dashboards
+## Week 3: Interactive Visual Analytics and Dashboards
 Build a dashboard to analyze launch records interactively with Plotly Dash as well as build an interactive map to analyze the launch site proximity with Folium python Library.
 
 ### Objectives:
